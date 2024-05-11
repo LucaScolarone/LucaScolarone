@@ -17,7 +17,7 @@
 ### From source
 
 ```bash
-git clone https://github.com/aniko33/KeepMyHouse-cli && cd KeepMyHouse-cli
+git clone https://github.com/LucaScolarone/LucaScolarone.git
 ```
 ## Usage
 
