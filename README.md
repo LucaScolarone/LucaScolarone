@@ -23,11 +23,11 @@ git clone https://github.com/LucaScolarone/LucaScolarone.git
 
 prefisso "!"
 
-## Init new DB
+## Crediti
 
 Crediti:
-Fen36
-zPolpettah_
+- Fen36
+- zPolpettah_
 
 ## License
 
